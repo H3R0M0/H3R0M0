@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @H3R0M0
-- :de: I´m from Germany.
-- 🎓 I still go to school.
+
